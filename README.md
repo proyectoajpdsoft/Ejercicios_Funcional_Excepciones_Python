@@ -1,2 +1,1 @@
-# Ejercicios_Funcional_Excepciones_Python
- 
+Enunciado y solución de ejercicios resueltos en Python: programación funcional (estructurada) y uso de excepciones (captura de errores). Se incluye la descarga del código fuente completo de los ejercicios en Python. Más información en: https://proyectoa.com/enunciado-y-solucion-de-ejercicios-resueltos-en-python-programacion-funcional-y-excepciones/
